@@ -34,13 +34,13 @@ Programació bàsica, muntatge d’ordinadors, xarxes locals o eines de col·lab
 
 🧠 Objectius personals i professionals
 
-Seguir millorant les meves competències tècniques en l’àmbit de la informàtica.
+- Seguir millorant les meves competències tècniques en l’àmbit de la informàtica.
 
-Aconseguir una bona base per continuar estudiant graus superiors o carreres universitàries relacionades amb les TIC.
+- Aconseguir una bona base per continuar estudiant graus superiors o carreres universitàries relacionades amb les TIC.
 
-Aprendre bones pràctiques de treball en equip i metodologies àgils (Scrum, Kanban).
+- Aprendre bones pràctiques de treball en equip i metodologies àgils (Scrum, Kanban).
 
-Participar en projectes que contribueixin a millorar la societat a través de la tecnologia.
+- Participar en projectes que contribueixin a millorar la societat a través de la tecnologia.
 
 ✨ Gràcies per visitar aquest repositori!
 
